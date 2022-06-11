@@ -1,0 +1,17 @@
+{
+  "name": "cisi-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.6",
+    "tabletojson": "^2.0.7"
+  }
+}
